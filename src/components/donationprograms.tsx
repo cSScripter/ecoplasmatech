@@ -33,24 +33,21 @@ export default function DonationPrograms() {
       </div>
 
       <div className="flex flex-col md:flex-row justify-between w-[90vw]">
-        <div className="flex flex-col gap-5 md:gap-10 text-left md:max-w-[31vw] my-10">
-          <h3>Veterans Programs</h3>
+        <div className="flex flex-col gap-5 text-left md:max-w-[31vw] my-10">
+          <h3 className="mb-5">Veterans Programs</h3>
           <p>
             Veterans Programs - We intend to hire veterans to work at our plant
             to become part of our integral team. We will offer them technical
             training as well as options for further education programs.
           </p>
           <p>
-            Veterans Programs - We intend to hire veterans to work at our plant
-            to become part of our integral team. We will offer them technical
-            training as well as options for further education programs. We will
-            provide financial assistance to active military families. Active
-            military families are in constant need of assistance over a long
-            duration where one parent is deployed to an overseas assignment.
-            These families become single parent households until their spouses
-            return from duty. On the surface, things like household maintenance
-            and childcare seem like small tasks but become extremely challenging
-            when one parent has been deployed.
+            We will provide financial assistance to active military families.
+            Active military families are in constant need of assistance over a
+            long duration where one parent is deployed to an overseas
+            assignment. These families become single parent households until
+            their spouses return from duty. On the surface, things like
+            household maintenance and childcare seem like small tasks but become
+            extremely challenging when one parent has been deployed.
           </p>
         </div>
         <Image
