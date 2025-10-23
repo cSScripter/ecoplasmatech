@@ -1,7 +1,7 @@
 import ExpandingHr from "./expandinghr";
 export default function About() {
   return (
-    <section className="flex flex-col items-center justify-center bg-linear-to-r from-black to-gray-300 md:h-[90vh]">
+    <section id="about" className="flex flex-col items-center justify-center bg-linear-to-r from-black to-gray-300 md:h-[90vh]">
         <div className="about max-w-[85vw] mt-5 md:mt-15">
       <h2 className="mb-5 md:mb-10">About Our Firm</h2>
       <p>
