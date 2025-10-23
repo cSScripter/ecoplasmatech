@@ -13,6 +13,9 @@ const openSans = Open_Sans({
 export const metadata: Metadata = {
   title: "EcoPlasma Technologies",
   description: "NonProfit Organization, located in Phoenix, Arizona, that recycles Vehicle batteries from both private and government entities while supporting our veterans and schools. ",
+  other: {
+    "color-scheme": "light dark",
+  },
 };
 
 export default function RootLayout({
