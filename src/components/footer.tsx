@@ -9,7 +9,7 @@ export default function Footer() {
         </span>
         <span>
           E-mail:{" "}
-          <a href="omer@ecoplasmatech.com" className="text-white">
+          <a href="mailto:omer@ecoplasmatech.com" className="text-white">
             omer@ecoplasmatech.com
           </a>
         </span>
